@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  swiftui-30day
-//
-//  Created by  MACBOOK AIR on 20/11/2023.
-//
+
 
 import SwiftUI
 
